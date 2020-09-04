@@ -1,0 +1,38 @@
+﻿                         MASS PROPERTIES OF THE PART JAW
+
+                         VOLUME =  8.8904918e+00 INCH^3
+                   SURFACE AREA =  3.9233186e+01 INCH^2
+                        DENSITY =  2.8600000e-01 POUND / INCH^3
+                           MASS =  2.5426807e+00 POUND 
+
+            CENTER OF GRAVITY with respect to _JAW coordinate frame:
+X   Y   Z           0.0000000e+00  2.0958924e-01  5.6850455e-01  INCH
+
+        INERTIA with respect to _JAW coordinate frame:  (POUND * INCH^2)
+
+INERTIA TENSOR:
+Ixx Ixy Ixz         3.7187331e+00  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  2.7397385e+00 -4.9818486e-01
+Izx Izy Izz         0.0000000e+00 -4.9818486e-01  3.2574344e+00
+
+       INERTIA at CENTER OF GRAVITY with respect to _JAW coordinate frame:
+                                                         (POUND * INCH^2)       
+INERTIA TENSOR:
+Ixx Ixy Ixz         2.7852512e+00  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz         0.0000000e+00  1.9179506e+00 -1.9521826e-01
+Izx Izy Izz         0.0000000e+00 -1.9521826e-01  3.1457404e+00
+
+                 PRINCIPAL MOMENTS OF INERTIA:  (POUND * INCH^2)
+I1  I2  I3          1.8876583e+00  2.7852512e+00  3.1760327e+00
+
+            ROTATION MATRIX from _JAW orientation to PRINCIPAL AXES:
+                       0.00000       -1.00000        0.00000
+                       0.98817        0.00000       -0.15334
+                       0.15334        0.00000        0.98817
+
+       ROTATION ANGLES from _JAW orientation to PRINCIPAL AXES (degrees):
+angles about x  y  z    8.820          0.000         90.000 
+
+                RADII OF GYRATION with respect to PRINCIPAL AXES:
+R1  R2  R3          8.6162003e-01  1.0466134e+00  1.1176262e+00  INCH
+

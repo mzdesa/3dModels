@@ -1,0 +1,89 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2019 SP2.0. Build: 4471
+                Computer name:   THINKMAX
+                User name:   mzdes
+                Processors:   Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+                Memory:   16118 MB / 134217727 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.18362)
+                CAD version:   SOLIDWORKS 2019 SP2.0
+                CPU speed:   2208 MHz
+
+    General Info
+                Model:   Wind Turbine Hub (1).SLDPRT
+                Project name:   MaxFlowProp
+                Project path:   C:\Users\mzdes\Desktop\E26\1
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (not exclude internal spaces)
+                Exclude cavities without flow conditions :   Off
+                Coordinate system:   Global coordinate system
+                Reference axis:   X
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                High Mach number flow:   Off
+                Humidity:   Off
+                Free surface:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -0.063 m
+                X max:   0.131 m
+                Y min:   -0.123 m
+                Y max:   0.139 m
+                Z min:   -0.104 m
+                Z max:   0.108 m
+                X size:   0.194 m
+                Y size:   0.262 m
+                Z size:   0.212 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   12
+                Number of cells in Y:   16
+                Number of cells in Z:   13
+
+        Number Of Cells
+                Cells:   3486
+                Fluid cells:   3486
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   2
+
+    Goals
+
+        Global Goals
+
+            GG Torque (Y) 1
+                Type:   Global Goal
+                Goal type:   Torque (Y)
+                Coordinate system:   Global coordinate system
+                Use in convergence :   On
+
+    Goals
+                
+                Name              	Unit   	Value       	Progress   	Criteria         	Delta            	Use in convergence 
+                GG Torque (Y) 1   	N*m    	4.869e-04   	100        	2.48829088e-05   	1.63107292e-05   	On                 
+
+    General Info
+                Run at:   THINKMAX
+                Number of cores:   12
+                Iterations:   40
+                CPU time:   10 s
+
+        Log
+                Mesh generation started	0:   21:03:29 , Mar 12
+                Mesh generation normally finished	0:   21:03:36 , Mar 12
+                Preparing data for calculation	0:   21:03:36 , Mar 12
+                Calculation started	0:   21:03:38 , Mar 12
+                Calculation has converged since the following criteria are satisfied:	40:   21:03:48 , Mar 12
+                    Goals are converged	40:   
+                Calculation finished	40:   21:03:57 , Mar 12

@@ -1,0 +1,22 @@
+<mstns:materials xmlns:mstns="http://www.solidworks.com/sldmaterials" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:slodcolorswatch="http://www.solidworks.com/sldcolorswatch" xsi:schemaLocation="http://www.solidworks.com/sldmaterials&amp;#xA;E:\Temp\sldmaterials.xsd" version="2008.03">
+  <curves id="curve0">
+    <point x="1.0" y="1.0" />
+    <point x="2.0" y="1.0" />
+    <point x="3.0" y="1.0" />
+  </curves>
+  <classification name="Plastic_ABS">
+    <material name="C01" matid="828706" appdata="Model Created using Matereality on 5/7/2020&#xA;&#xA;Information about material properties used to create this model are available at:&#xA;http://my.matereality.com/SolidWorks/TestingInformation?resultids=828706%2C828709%2C828711&amp;study=StaticAnalysis&amp;model=LinearElasticIsotropic&amp;options=FactorOfSafetyVonMises&#xA;Copy and Paste into the address bar of your browser to view&#xA;&#xA;Property Notes&#xD;&#xA;NUXY: https://my.matereality.com/Legacy/MiroSearch/templatesearch.aspx?rid=15_635096592799557500&amp;orid=16_635096592797370000&amp;STemplate=Poissons+Ratio&amp;SearchType=4&amp;Class=Plastic+++++++++++++&amp;Subclass=ABS+++++++++++++++++&amp;Supplier=&amp;OwnerSearch=0&#xA;GXY: Calculated&#xA;DENS: Harper, Charles A., eds. Modern Plastics Handbook. New York: McGraw-Hill, 2000. Print.&#xA;" failurecriteria="4">
+      <physicalproperties>
+        <EX value="2242000000" displayname="Elastic modulus" />
+        <NUXY value="0.37999999523162842" displayname="Poisson's ratio" />
+        <GXY value="812318843.38654935" displayname="Shear modulus" />
+        <DENS value="1200" displayname="Mass density" />
+        <SIGXT value="34700000" displayname="Tensile strength" />
+        <SIGYLD value="47610000" displayname="Yield strength" />
+        <REFTEMP value="296" displayname="" />
+        <materialmodel name="Unknown SolidWorks Model" type="0" />
+      </physicalproperties>
+      <shaders />
+    </material>
+  </classification>
+</mstns:materials>
